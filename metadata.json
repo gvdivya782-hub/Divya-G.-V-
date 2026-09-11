@@ -1,0 +1,9 @@
+{
+  "name": "Universal Intent Bridge",
+  "description": "LifeBridge: From messy human intent to verified action. Humans don't speak APIs. LifeBridge translates messy real-world human input into structured, verified action through Gemini.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
